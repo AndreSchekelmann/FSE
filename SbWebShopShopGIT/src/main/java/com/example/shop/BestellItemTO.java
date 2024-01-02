@@ -6,7 +6,7 @@ public class BestellItemTO {
 	int menge;
 	
 	public BestellItemTO() {
-	} 
+	}  
 	
 	public BestellItemTO(int id, int menge) {
 		this.id = id;
